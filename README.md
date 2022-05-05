@@ -2,7 +2,7 @@
 - 👀 I’m interested in ROR
 - 🌱 I’m currently learning Rails
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me : proshivmkushwaha@gmail.com
 
 <!---
 proshivamkushwaha/proshivamkushwaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
